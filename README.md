@@ -2,7 +2,7 @@
 
 Proof of source code for Mining Coin:
 
-- [`0xA5192CD81bD050B7eeBa24B9DE3C5dd983968A27`](https://ethereumhistory.com/contracts/0xA5192CD81bD050B7eeBa24B9DE3C5dd983968A27) — deployed Jun 16 2016 (block 1,718,272)
+- [`0xA5192CD81bD050B7eeBa24B9DE3C5dd983968A27`](https://ethereumhistory.com/contract/0xA5192CD81bD050B7eeBa24B9DE3C5dd983968A27) — deployed Jun 16 2016 (block 1,718,272)
 
 ## Contract
 
